@@ -1,0 +1,10 @@
+This is a simple script I hacked together to browse the imgur gallery for a
+fixed number of seconds (specified by a command-line argument). The idea is
+sort of that this will help me kill time while waiting for awkward lengths
+of time (like 60 seconds).
+
+It tracks what images you've seen in a file and avoids showing them more
+than once. Any key or click to advance the images. Requires python3 and
+cherrypy.
+
+Public Domain.
